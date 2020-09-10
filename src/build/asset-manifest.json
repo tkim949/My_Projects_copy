@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69891b90.chunk.css",
+    "main.js": "/static/js/main.7c1fad54.chunk.js",
+    "main.js.map": "/static/js/main.7c1fad54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2cb59220.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2cb59220.js.map",
+    "static/js/2.f85cad13.chunk.js": "/static/js/2.f85cad13.chunk.js",
+    "static/js/2.f85cad13.chunk.js.map": "/static/js/2.f85cad13.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef5d307ed8cf89230083447706a0b8c3.js": "/precache-manifest.ef5d307ed8cf89230083447706a0b8c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.69891b90.chunk.css.map": "/static/css/main.69891b90.chunk.css.map",
+    "static/js/2.f85cad13.chunk.js.LICENSE.txt": "/static/js/2.f85cad13.chunk.js.LICENSE.txt",
+    "static/media/Resume_TaekyoungKim_0627.pdf": "/static/media/Resume_TaekyoungKim_0627.5659a3df.pdf",
+    "static/media/resume_pic_0627.PNG": "/static/media/resume_pic_0627.23abed93.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb59220.js",
+    "static/js/2.f85cad13.chunk.js",
+    "static/css/main.69891b90.chunk.css",
+    "static/js/main.7c1fad54.chunk.js"
+  ]
+}
